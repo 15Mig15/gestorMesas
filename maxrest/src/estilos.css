@@ -1,0 +1,65 @@
+.card-mesa { 
+    background-color: #0c6ccd; 
+    border: 1px solid #dee2e6;
+    width: 300px;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 30px; 
+    padding: 10px; 
+    margin-bottom: 20px; 
+   }
+   
+   .card-mesa h3 { 
+    font-size: 1.2rem; 
+    margin-bottom: 10px; 
+   }
+   
+   .card-mesa p { 
+    font-size: 1rem; 
+    margin-bottom: 5px; 
+   } 
+
+
+   .formulario-pago {
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    padding: 20px;
+    max-width: 500px;
+    margin: 20px auto;
+  }
+  
+  .formulario-pago h2 {
+    color: black;
+    margin-top: 0;
+  }
+  
+  .formulario-pago label {
+    color: black;
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .formulario-pago input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .formulario-pago button[type="submit"] {
+    background-color: #4CAF50;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .formulario-pago button[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
